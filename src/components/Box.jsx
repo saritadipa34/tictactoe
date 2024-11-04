@@ -1,10 +1,9 @@
 import React from 'react'
-import './/Box.css'
 
 const Box = () => {
   return (
-    <div className='h-5 w-5 border-black'>
-      <h1>X</h1>
+    <div className='h-20 w-20 border border-black text-red-700 flex items-center justify-center'>
+      <h1></h1>
     </div>
   )
 }
